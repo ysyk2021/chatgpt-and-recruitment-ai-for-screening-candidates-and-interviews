@@ -6,7 +6,7 @@ Recruitment is a challenging and time-consuming process that involves identifyin
 What is ChatGPT?
 ----------------
 
-ChatGPT is an AI language model designed to respond to natural language input and generate human-like responses. It is based on the Generative Pre-trained Transformer 3 (GPT-3) architecture, developed by OpenAI. ChatGPT can be trained on large datasets and can be used to generate text in a variety of applications, including chatbots.
+ChatGPT is an AI language model designed to respond to natural language input and generate human-like responses. It is based on the Generative Pre-trained Transformer 3 (GPT-3.5) architecture, developed by OpenAI. ChatGPT can be trained on large datasets and can be used to generate text in a variety of applications, including chatbots.
 
 How Can ChatGPT Improve Recruitment Processes?
 ----------------------------------------------

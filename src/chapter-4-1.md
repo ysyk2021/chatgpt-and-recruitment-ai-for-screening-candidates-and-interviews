@@ -17,18 +17,6 @@ Chatbots are computer programs designed to simulate conversation with human user
 
 Chatbots can be used for a variety of purposes, including customer service, sales, and support. In the context of recruitment, chatbots can be used to conduct initial interviews with candidates, answer common questions about the job, and provide updates on the status of the application.
 
-How Can AI and Chatbots Improve Recruitment?
---------------------------------------------
-
-AI and chatbots can improve recruitment in various ways, including:
-
-* Automating repetitive and time-consuming tasks, such as resume screening and scheduling interviews
-* Providing objective criteria for candidate selection, reducing bias
-* Conducting initial interviews with candidates, saving recruiters time and resources
-* Enhancing the candidate experience by providing real-time support and guidance throughout the recruitment process
-
-By leveraging the capabilities of AI and chatbots, recruiters can create a more efficient, personalized, and engaging recruitment process that benefits both recruiters and candidates.
-
 Conclusion
 ----------
 

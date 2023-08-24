@@ -1,5 +1,3 @@
-Chapter 1: Basics of Recruitment
-================================
 
 Recruitment is a crucial process for any organization that involves identifying, attracting, and hiring the right candidates for open positions. In this chapter, we will explore the definition of recruitment, its importance in modern times, and the different stages involved in the recruitment process.
 

@@ -1,5 +1,3 @@
-Impact of These Challenges on the Recruitment Outcomes
-====================================================================================================
 
 The recruitment process is complex and can be impacted by a range of challenges that can negatively impact recruitment outcomes. In this chapter, we will explore some of the key challenges in the recruitment process and their impact on recruitment outcomes.
 

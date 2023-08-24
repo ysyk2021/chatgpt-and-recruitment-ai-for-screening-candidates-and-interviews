@@ -1,5 +1,3 @@
-Definition of Recruitment
-===========================================================
 
 Recruitment is the process of identifying, attracting, and hiring suitable candidates for job vacancies within an organization. The recruitment process involves various steps, including job analysis, sourcing potential candidates, screening resumes, conducting interviews, and making offers to selected candidates.
 

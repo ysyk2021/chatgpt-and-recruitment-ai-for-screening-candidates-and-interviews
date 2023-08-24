@@ -1,5 +1,3 @@
-Benefits of using AI and Chatbots for Recruitment
-========================================================================================================
 
 The use of AI and chatbots in recruitment has numerous benefits, including increased efficiency, reduced bias, improved candidate experience, and better decision-making. In this chapter, we will explore these benefits in more detail.
 

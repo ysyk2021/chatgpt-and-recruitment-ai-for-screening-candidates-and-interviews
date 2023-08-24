@@ -1,5 +1,3 @@
-Factors Affecting Recruitment Processes
-=====================================================================================
 
 The recruitment process can be affected by a range of factors that can impact its effectiveness and fairness. In this chapter, we will explore some of the key factors that can affect recruitment processes.
 

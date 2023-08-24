@@ -1,5 +1,3 @@
-The Role of ChatGPT in Improving Recruitment Processes
-====================================================================
 
 Recruitment is a challenging and time-consuming process that involves identifying, attracting, and hiring the right candidates for open positions. In recent years, advancements in Artificial Intelligence (AI) technology have transformed the recruitment process, making it more efficient, effective, and unbiased. One such AI technology is ChatGPT, which can play a significant role in improving recruitment processes.
 

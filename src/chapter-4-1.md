@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-======================================================================================
 
 Artificial intelligence (AI) and chatbot technology have the potential to transform the recruitment process by providing more efficient, personalized, and engaging experiences for both recruiters and candidates. In this chapter, we will introduce AI and chatbots and explore their role in recruitment.
 

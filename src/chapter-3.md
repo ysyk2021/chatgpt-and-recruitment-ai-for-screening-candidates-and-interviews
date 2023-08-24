@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Recruitment Process
-============================================
 
 Factors Affecting Recruitment Processes
 ---------------------------------------

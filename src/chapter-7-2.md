@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Recruitment Industry
-============================================================================================
 
 As AI technology continues to evolve, ChatGPT has the potential to have a significant impact on the recruitment industry. In this chapter, we will explore the potential impact of ChatGPT on the recruitment industry.
 

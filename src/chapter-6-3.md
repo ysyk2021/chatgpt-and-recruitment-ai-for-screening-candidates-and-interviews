@@ -1,5 +1,3 @@
-Case Studies of Companies that have Successfully Implemented ChatGPT in their Recruitment Processes
-=============================================================================================================================================================
 
 ChatGPT has the potential to transform recruitment processes by improving efficiency and accuracy. In this chapter, we will explore case studies from companies that have successfully implemented ChatGPT in their recruitment processes.
 

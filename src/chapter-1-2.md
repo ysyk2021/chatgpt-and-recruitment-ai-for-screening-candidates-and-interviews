@@ -1,5 +1,3 @@
-Explanation of the Recruitment Process and its Importance
-=======================================================================
 
 Recruitment is a crucial process for any organization that involves identifying, attracting, and hiring the right candidates for open positions. The recruitment process can vary from organization to organization, but it typically involves several stages, including job analysis, sourcing potential candidates, screening resumes, conducting interviews, candidate assessment, and making a job offer.
 

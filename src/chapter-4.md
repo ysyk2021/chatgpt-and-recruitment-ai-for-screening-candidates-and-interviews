@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Recruitment
-=====================================================
 
 The recruitment process can be time-consuming, costly, and prone to bias. However, with the development of AI and chatbot technology, there is the potential to transform the way we screen and interview candidates. In this chapter, we will introduce AI and chatbots, explore how they can improve recruitment processes, and examine the benefits of using them for recruitment.
 

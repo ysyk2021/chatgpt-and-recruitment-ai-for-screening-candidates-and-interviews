@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in recruitment
-=========================================================================================================
 
 When implementing ChatGPT in recruitment processes, it is essential to follow best practices to ensure its effectiveness and to prevent potential issues such as bias and lack of transparency. In this chapter, we will discuss the best practices for using ChatGPT in recruitment.
 

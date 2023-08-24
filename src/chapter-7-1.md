@@ -1,5 +1,3 @@
-Potential Advancements in Recruitment with ChatGPT
-=================================================================================================
 
 As AI technology continues to evolve, the potential advancements in recruitment processes with ChatGPT are vast. In this chapter, we will explore some of the potential advancements in recruitment with ChatGPT.
 

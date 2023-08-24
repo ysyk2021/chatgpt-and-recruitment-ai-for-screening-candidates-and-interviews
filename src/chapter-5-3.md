@@ -1,5 +1,3 @@
-How ChatGPT can be used for Screening Candidates and Interviews
-=================================================================================================
 
 ChatGPT is an AI language model that can generate human-like responses to natural language input. It has the potential to revolutionize recruitment processes by automating certain tasks, conducting initial interviews, enhancing candidate experience, and reducing bias in the recruitment process.
 

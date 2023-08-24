@@ -1,5 +1,3 @@
-Common Challenges in Recruitment
-==============================================================================
 
 The recruitment process is a complex and challenging process that can be impacted by various factors. In this chapter, we will explore some of the common challenges in recruitment that recruiters face.
 

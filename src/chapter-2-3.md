@@ -1,5 +1,3 @@
-Different Stages of Recruitment Process
-=========================================================================
 
 Recruitment is the process of identifying, attracting, and hiring suitable candidates for a job vacancy. The recruitment process can vary from organization to organization, but there are some common stages that make up the process. In this chapter, we will explore the different stages of the recruitment process.
 

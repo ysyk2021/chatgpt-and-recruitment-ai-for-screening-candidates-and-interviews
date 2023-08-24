@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is an AI language model developed by OpenAI that uses deep learning to generate human-like text. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used for screening candidates and interviews.
 

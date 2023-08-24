@@ -1,5 +1,3 @@
-Chapter 6: Future of Recruitment with ChatGPT
-=============================================
 
 As AI technology continues to evolve, the future of recruitment with ChatGPT is bright. In this chapter, we will explore potential advancements in recruitment with ChatGPT, the impact it can have on the recruitment industry, and our final thoughts on the future outlook.
 

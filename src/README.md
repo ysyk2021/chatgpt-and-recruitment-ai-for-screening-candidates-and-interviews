@@ -6,3 +6,7 @@ This book explores how ChatGPT can optimize recruitment processes by streamlinin
 Whether you are a recruiter, HR professional, or simply interested in the intersection of AI and recruitment, this book provides valuable insights into the future of the recruitment industry and the potential of ChatGPT to transform the way organizations hire top talent.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Recruitment Processes
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recruitment processes are influenced by a variety of factors that can impact the effectiveness and outcomes of the hiring process. In this chapter, we will explore some of the key factors that affect recruitment, highlighting their significance and how ChatGPT and AI can help navigate through these challenges.
 

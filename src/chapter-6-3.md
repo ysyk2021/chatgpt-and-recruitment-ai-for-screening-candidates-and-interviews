@@ -1,5 +1,4 @@
-Chapter: Case Studies of Companies that have Successfully Implemented ChatGPT in their Recruitment Processes
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

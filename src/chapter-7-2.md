@@ -1,5 +1,4 @@
-Chapter: Impact of ChatGPT on the Recruitment Industry
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

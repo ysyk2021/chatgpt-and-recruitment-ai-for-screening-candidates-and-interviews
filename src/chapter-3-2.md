@@ -1,5 +1,4 @@
-Chapter: Common Challenges in Recruitment
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recruitment is a complex process that often presents various challenges for both recruiters and organizations. In this chapter, we will explore some of the common challenges faced in recruitment and how the integration of ChatGPT and AI can help address these issues.
 
